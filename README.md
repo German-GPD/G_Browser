@@ -1,55 +1,76 @@
-This software is from German Petrachenko
-G_Browser
-Alpha version 1.2.0.4
-The first version is decent and ready for a real presentation.
+🚀 G_Browser
+Alpha v1.2.0.4 - available for installation
+Alpha v1.4.0.7 - in dev
 
+Built for the Void • Formerly GEFORS
 
+🧠 Overview
 
-╔══════════════════════════════════════════════════════╗
-    ◢◤  G  E  R  M  A  N  //  O  R  I  G  I  N  A  L  ◢◤ 
- ╚══════════════════════════════════════════════════════╝
-   🛰  NETWORK STATUS: ENCRYPTED  [●] ONLINE
-   🛡  PROTOCOL: GEFORS_LEGACY v4.0
-   📅  TIMELINE: EST. 2026 // FUTURE READY
- ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+G_Browser — это экспериментальный браузер нового поколения с упором на:
 
- ◤  O P E R A T O R  I N F O  ◢
- ┝ 👤 IDENTITY: German / GPD / G56
- ┝ 🧬 SPECIALIZATION: AI Architect & Tech Visionary
- ┝ 🛠 SKILLS: Python | JS | Neural Networks | UI/UX
- ┝ 💼 SERVICES: TG Bots, Web-Apps, Custom Scripts
- ┝ 🚫 NOTICE: Development only (No Hosting)
- ┕ 🏁 PASSIONS: Audi Rally Group B // Pro-Cycling
+⚡ производительность
+🔐 безопасность
+🎨 годный UI / UX
 
- ◤  A D M I N  P A N E L  ◢
- ┝ 🔑 PRIME_ID: @German_GPD
- ┝ 🗝 AUX_LINK: @German56_GPD
- ┝ 🤖 BOT_STATION_01: @German56bot
- ┕ 🦾 BOT_STATION_02: @German56bot
+Первая альфа-версия уже готова к демонстрации и дальнейшему развитию.
 
- ◤  D I G I T A L  V O I D  ◢
- ┝ 🐙 GITHUB: github.com/German-GPD
- ┝ 📸 INSTA: instagram.com/germanoriginalgpd
- ┝ 🎮 DISCORD: discord.gg/wtNEjXVFG
- ┝ 🦊 REDFOX: t.me/redfox_g56
- ┕ ⭐️ DEKING: t.me/germanperonalccc
+🛰 System Status
+NETWORK:     ENCRYPTED   ● ONLINE
+PROTOCOL:    GEFORS_LEGACY v4.0
+TIMELINE:    EST. 2026 // FUTURE READY
+SYSTEM LOAD: ████████████████████████████▒▒ 94%
+👤 Operator
 
- ◤  T E C H  S T A C K  ◢
- ┝ 🎨 STUDIO: Canva [oj222.com@gmail.com]
- ┝ ⚙️ ENGINE: AI Integration & Automation
- ┕ 📐 ASSETS: Professional Visual Decking
+German / GPD / G56
+AI Architect & Tech Visionary
 
- ◤  E N T R Y  G A T E S  ◢
- ┝ ⚡️ GATE_A: gtsx.ru/uadTGK0
- ┝ ⚡️ GATE_B: gtsx.ru/oiTP5vc
- ┕ ⚡️ HUB_REFOX: t.me/redfox_g56
+🛠 Skills
+Python
+JavaScript
+Neural Networks
+UI / UX Design
+💼 Services
+Telegram Bots
+Web Applications (html, css)
+Custom Automation Scripts
 
- ◤  L I Q U I D  A S S E T S  ◢
- ┝ 🪙 BTC: bc1q4te3wxx2jmy7q
- ┝ ⭐️ STARS: Accepted / Free Support 
- ┕ 📑 [ Tap to copy secure address ]
+⚠️ Development only — no hosting provided
 
- ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-   SYSTEM LOAD: ████████████████████████████▒▒  94%
- ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-   『 FORMERLY GEFORS 』 • 『 BUILT FOR THE VOID 』
+🏁 Passions
+Audi Rally Group B
+Pro Cycling
+🔑 Admin Panel
+Type	Link
+PRIME_ID	@German_GPD
+AUX_LINK	@German56_GPD
+BOT 01	@German56bot
+BOT 02	@German56bot
+🌐 Digital Void
+🐙 GitHub: https://github.com/German-GPD
+📸 Instagram: https://instagram.com/germanoriginalgpd
+🎮 Discord: https://discord.gg/wtNEjXVFG
+🦊 RedFox: https://t.me/redfox_g56
+⭐ Deking: https://t.me/germanperonalccc
+⚙️ Tech Stack
+🎨 Design: Canva
+⚙️ Core: AI Integration & Automation
+📐 Assets: Professional Visual Decking
+⚡ Entry Gates
+GATE_A → https://gtsx.ru/uadTGK0
+GATE_B → https://gtsx.ru/oiTP5vc
+HUB_REFOX → https://t.me/redfox_g56
+💰 Support / Assets
+🪙 BTC: bc1q4te3wxx2jmy7q
+⭐ Stars: Accepted / Free Support
+🧩 Philosophy
+
+"Not just a browser — a system interface for the next layer of the web."
+
+📌 Status
+
+🚧 Alpha — активно развивается
+📈 Готов к презентациям и тестированию
+
+🧬 Signature
+◢◤ GERMAN // ORIGINAL ◢◤
+BUILT FOR THE VOID
